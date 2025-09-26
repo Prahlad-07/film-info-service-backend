@@ -17,7 +17,7 @@ import org.springframework.security.crypto.password.PasswordEncoder;
 import com.cinema.auth.repositories.UserRepository;
 
 /**
- * @author vikash katiyar
+ * @author Prahlad_07
  *
  */
 @Configuration

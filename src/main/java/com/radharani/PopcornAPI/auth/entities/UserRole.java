@@ -4,7 +4,7 @@
 package com.cinema.auth.entities;
 
 /**
- * @author vikash katiyar
+ * @author Prahlad_07
  *
  */
 public enum UserRole {

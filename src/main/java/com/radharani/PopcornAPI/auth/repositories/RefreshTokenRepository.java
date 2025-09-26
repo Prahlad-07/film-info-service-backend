@@ -10,7 +10,7 @@ import org.springframework.data.jpa.repository.JpaRepository;
 import com.cinema.auth.entities.RefreshToken;
 
 /**
- * @author vikash katiyar
+ * @author Prahlad_07
  *
  */
 public interface RefreshTokenRepository extends JpaRepository<RefreshToken, Integer> {

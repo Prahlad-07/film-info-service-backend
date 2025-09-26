@@ -19,7 +19,7 @@ import com.cinema.auth.service.AuthFilterService;
 import lombok.RequiredArgsConstructor;
 
 /**
- * @author vikash katiyar
+ * @author Prahlad_07
  *
  */
 
