@@ -6,7 +6,7 @@ package com.cinema.auth.utils;
 import lombok.Data;
 
 /**
- * @author vikash katiyar
+ * @author Prahlad_07
  *
  */
 @Data
